@@ -1,0 +1,25 @@
+﻿body {
+    font-family: Arial, sans-serif;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+.question {
+    margin-bottom: 20px;
+}
+
+.options label {
+    display: block;
+}
+
+input[type="submit"] {
+    margin-top: 10px;
+}
+
+#result {
+    font-weight: bold;
+    margin-top: 20px;
+}

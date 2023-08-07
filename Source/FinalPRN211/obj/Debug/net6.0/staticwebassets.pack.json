@@ -1,0 +1,929 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\css\\custom-responsive.css",
+      "PackagePath": "staticwebassets\\custom\\css\\custom-responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\css\\custom.css",
+      "PackagePath": "staticwebassets\\custom\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\css\\fables-icons.css",
+      "PackagePath": "staticwebassets\\custom\\css\\fables-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\css\\toast.css",
+      "PackagePath": "staticwebassets\\custom\\css\\toast.css"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\demo\\demo1.png",
+      "PackagePath": "staticwebassets\\custom\\demo\\demo1.png"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\demo\\demo2.png",
+      "PackagePath": "staticwebassets\\custom\\demo\\demo2.png"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\demo\\demo3.png",
+      "PackagePath": "staticwebassets\\custom\\demo\\demo3.png"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\demo\\demo4.png",
+      "PackagePath": "staticwebassets\\custom\\demo\\demo4.png"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\fonts\\fables.eot",
+      "PackagePath": "staticwebassets\\custom\\fonts\\fables.eot"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\fonts\\fables.svg",
+      "PackagePath": "staticwebassets\\custom\\fonts\\fables.svg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\fonts\\fables.ttf",
+      "PackagePath": "staticwebassets\\custom\\fonts\\fables.ttf"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\fonts\\fables.woff",
+      "PackagePath": "staticwebassets\\custom\\fonts\\fables.woff"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\Article-Writing.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\Article-Writing.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\Article-Writing2.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\Article-Writing2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\France.png",
+      "PackagePath": "staticwebassets\\custom\\images\\France.png"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\IMG_8573-1078.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\IMG_8573-1078.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\avatar.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\big-overlay.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\big-overlay.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\blog-cat1.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\blog-cat1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\blog-cat2.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\blog-cat2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\blog-cat3.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\blog-cat3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\blog-cat4.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\blog-cat4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\blog-cat5.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\blog-cat5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\blog-cat6.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\blog-cat6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\blog-details.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\blog-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\blog-detials.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\blog-detials.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\blog-slider1.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\blog-slider1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\blog-slider2.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\blog-slider2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\blog-slider3.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\blog-slider3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\blog-teaser-img1.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\blog-teaser-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\blog-teaser-img2.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\blog-teaser-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\blog-xl-img1.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\blog-xl-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\blog-xl.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\blog-xl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\brand-4.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\brand-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\business-support.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\business-support.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\bussiness.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\bussiness.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\cat-larg1.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\cat-larg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\cat-larg2.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\cat-larg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\cat-larg3.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\cat-larg3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\cat-larg4.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\cat-larg4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\cat-larg5.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\cat-larg5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\cat-larg6.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\cat-larg6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\cat-larg7.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\cat-larg7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\cat-larg8.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\cat-larg8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\choose-img.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\choose-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\choose-us-background.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\choose-us-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\choose-us-index.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\choose-us-index.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\conference-room-768441_1920.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\conference-room-768441_1920.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\contact-caption-back.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\contact-caption-back.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\counter-background.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\counter-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\england.png",
+      "PackagePath": "staticwebassets\\custom\\images\\england.png"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\fables-logo.png",
+      "PackagePath": "staticwebassets\\custom\\images\\fables-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\footer-back.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\footer-back.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\gallery-timeline1.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\gallery-timeline1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\gallery-timeline2.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\gallery-timeline2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\gallery-timeline3.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\gallery-timeline3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\gallery-timeline4.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\gallery-timeline4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\gallery-timeline5.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\gallery-timeline5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\gallery1.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\gallery1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\gallery2-timeline.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\gallery2-timeline.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\gallery2.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\gallery2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\gallery3.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\gallery3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\gallery4.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\gallery4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\header.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\history-center.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\history-center.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\history-img.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\history-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\history-img1.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\history-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\history-img2.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\history-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\history-img3.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\history-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\history-slider.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\history-slider.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\history-video2.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\history-video2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\hostory-col-8.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\hostory-col-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\hp_innovacion2.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\hp_innovacion2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\img.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\img2.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\img3.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\index-background.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\index-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\index-overlay.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\index-overlay.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\index-product1.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\index-product1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\index-product2.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\index-product2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\index-products-overlay.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\index-products-overlay.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\index-services-bg.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\index-services-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\index-testimonial.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\index-testimonial.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\index-testimonial1.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\index-testimonial1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\index-testimonial2.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\index-testimonial2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\index-testimonial3.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\index-testimonial3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\index-testimonial4.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\index-testimonial4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\index-testimonial5.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\index-testimonial5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\index-video.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\index-video.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\index1.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\index1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\index2-overlay.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\index2-overlay.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\index2.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\index2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\index3.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\index3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\lamp.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\lamp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\laptop-1209008.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\laptop-1209008.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\logo-dark.png",
+      "PackagePath": "staticwebassets\\custom\\images\\logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\magazine-2559842 (1).jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\magazine-2559842 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\magazine-2559842.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\magazine-2559842.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\man-image.png",
+      "PackagePath": "staticwebassets\\custom\\images\\man-image.png"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\map-marker.png",
+      "PackagePath": "staticwebassets\\custom\\images\\map-marker.png"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\masonry-sm-img.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\masonry-sm-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\masonry1.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\masonry1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\masonry2.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\masonry2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\masonry3.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\masonry3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\masonry4.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\masonry4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\masonry5.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\masonry5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\masonry6.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\masonry6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\masonry7.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\masonry7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\masonry8.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\masonry8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\masonry9.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\masonry9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\mission-img.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\mission-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\mobile-apps.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\mobile-apps.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\overlay1.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\overlay1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\pages-header-background.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\pages-header-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\paper-3139127_1280.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\paper-3139127_1280.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\partner1.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\partner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\partner2-1.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\partner2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\partner2-2.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\partner2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\partner2-2.png",
+      "PackagePath": "staticwebassets\\custom\\images\\partner2-2.png"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\partner2-3.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\partner2-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\partner2-4.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\partner2-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\pexels-photo-288477.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\pexels-photo-288477.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\play-button.png",
+      "PackagePath": "staticwebassets\\custom\\images\\play-button.png"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\post-1.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\post-2.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\product1.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\product1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\product2.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\product2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\product3.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\product3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\product4.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\product4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\product5.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\product5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\product6.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\product6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\product7.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\product7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\product8.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\product8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\product9.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\product9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\signin-logo.png",
+      "PackagePath": "staticwebassets\\custom\\images\\signin-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\single-blog.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\single-blog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\single-gallery.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\single-gallery.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\single-product.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\single-product.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\single-video.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\single-video.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\sm.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\sm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\smaller-product-img.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\smaller-product-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\sml1.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\sml1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\sml2.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\sml2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\sml3.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\sml3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\sml4.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\sml4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\table-bg.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\table-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\talk-coasts-friends.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\talk-coasts-friends.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\team1-1.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\team1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\team1-2.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\team1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\team1-3.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\team1-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\team1-4.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\team1-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\team2-1.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\team2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\team2-2.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\team2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\team3-1.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\team3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\team3-2.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\team3-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\testimonial-img.png",
+      "PackagePath": "staticwebassets\\custom\\images\\testimonial-img.png"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\testimonial-index-bg.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\testimonial-index-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\timeline1.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\timeline1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\timeline2.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\timeline2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\timeline3.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\timeline3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\timeline4.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\timeline4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\timeline5.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\timeline5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\timeline6.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\timeline6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\timeline7.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\timeline7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\together.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\together.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\top-header-background.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\top-header-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\v.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\v.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\video1.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\video1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\video2.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\video2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\video3.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\video3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\images\\vision-img.jpg",
+      "PackagePath": "staticwebassets\\custom\\images\\vision-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\js\\custom.js",
+      "PackagePath": "staticwebassets\\custom\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\js\\jquery-data-to.js",
+      "PackagePath": "staticwebassets\\custom\\js\\jquery-data-to.js"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\custom\\js\\toast.js",
+      "PackagePath": "staticwebassets\\custom\\js\\toast.js"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\form\\form.css",
+      "PackagePath": "staticwebassets\\form\\form.css"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\OffCanvasMenuEffects\\css\\menu_sideslide.css",
+      "PackagePath": "staticwebassets\\vendor\\OffCanvasMenuEffects\\css\\menu_sideslide.css"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\OffCanvasMenuEffects\\js\\classie.js",
+      "PackagePath": "staticwebassets\\vendor\\OffCanvasMenuEffects\\js\\classie.js"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\OffCanvasMenuEffects\\js\\main.js",
+      "PackagePath": "staticwebassets\\vendor\\OffCanvasMenuEffects\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\WOW-master\\dist\\wow.min.js",
+      "PackagePath": "staticwebassets\\vendor\\WOW-master\\dist\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\animate.css-master\\animate.min.css",
+      "PackagePath": "staticwebassets\\vendor\\animate.css-master\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-4-navbar.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-4-navbar.css"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\bootstrap\\js\\bootstrap-4-navbar.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap-4-navbar.js"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\fancybox-master\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\vendor\\fancybox-master\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\fancybox-master\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\vendor\\fancybox-master\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\fontawesome\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\fontawesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\fontawesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\fontawesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\fontawesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\fontawesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\fontawesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\fontawesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\fontawesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\fontawesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\fontawesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\vendor\\fontawesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\imagesLoaded\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\vendor\\imagesLoaded\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\jQuery.countdown-master\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jQuery.countdown-master\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\jquery-circle-progress\\circle-progress.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery-circle-progress\\circle-progress.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\jquery-circle-progress\\circle.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery-circle-progress\\circle.js"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\jquery\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\loadscreen\\css\\spinkit.css",
+      "PackagePath": "staticwebassets\\vendor\\loadscreen\\css\\spinkit.css"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\loadscreen\\js\\ju-loading-screen.js",
+      "PackagePath": "staticwebassets\\vendor\\loadscreen\\js\\ju-loading-screen.js"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\masonry\\masonry.pkgd.min.js",
+      "PackagePath": "staticwebassets\\vendor\\masonry\\masonry.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\owlcarousel\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\vendor\\owlcarousel\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\vendor\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\owlcarousel\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\vendor\\owlcarousel\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\owlcarousel\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\vendor\\owlcarousel\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\popper\\popper.min.js",
+      "PackagePath": "staticwebassets\\vendor\\popper\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\portfolio-filter-gallery\\jquery.isotope.min.js",
+      "PackagePath": "staticwebassets\\vendor\\portfolio-filter-gallery\\jquery.isotope.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\portfolio-filter-gallery\\portfolio-filter-gallery.css",
+      "PackagePath": "staticwebassets\\vendor\\portfolio-filter-gallery\\portfolio-filter-gallery.css"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\portfolio-filter-gallery\\portfolio-filter-gallery.js",
+      "PackagePath": "staticwebassets\\vendor\\portfolio-filter-gallery\\portfolio-filter-gallery.js"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\range-slider\\range-slider.css",
+      "PackagePath": "staticwebassets\\vendor\\range-slider\\range-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\range-slider\\range-slider.js",
+      "PackagePath": "staticwebassets\\vendor\\range-slider\\range-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\timeline\\jquery.timelify.js",
+      "PackagePath": "staticwebassets\\vendor\\timeline\\jquery.timelify.js"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\timeline\\modernizr.js",
+      "PackagePath": "staticwebassets\\vendor\\timeline\\modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\timeline\\timelify.css",
+      "PackagePath": "staticwebassets\\vendor\\timeline\\timelify.css"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\timeline\\timeline.css",
+      "PackagePath": "staticwebassets\\vendor\\timeline\\timeline.css"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\timeline\\timeline.js",
+      "PackagePath": "staticwebassets\\vendor\\timeline\\timeline.js"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\video-background\\jquery.mb.YTPlayer.js",
+      "PackagePath": "staticwebassets\\vendor\\video-background\\jquery.mb.YTPlayer.js"
+    },
+    {
+      "Id": "C:\\Users\\fpt\\Documents\\FPT\\Se5\\PRN211\\VsCode\\FinalPRN211\\FinalPRN211\\wwwroot\\vendor\\video-background\\video-background.css",
+      "PackagePath": "staticwebassets\\vendor\\video-background\\video-background.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FinalPRN211.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FinalPRN211.props",
+      "PackagePath": "build\\FinalPRN211.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FinalPRN211.props",
+      "PackagePath": "buildMultiTargeting\\FinalPRN211.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FinalPRN211.props",
+      "PackagePath": "buildTransitive\\FinalPRN211.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
